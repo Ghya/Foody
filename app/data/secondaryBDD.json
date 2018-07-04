@@ -1,0 +1,53 @@
+{
+	"secondary": [
+		{
+			"id": "01",
+			"name": "Salade",
+			"cat": "Légume",
+			"ways": [
+				{
+					"type": "Tomates",
+					"qty": 1,
+					"unit": "unité"
+				},
+				{
+					"type": "Verte",
+					"qty": 1,
+					"unit": "unité"
+				},
+				{
+					"type": "Concombre",
+					"qty": 1,
+					"unit": "unité"
+				}
+			]
+		},
+		{
+			"id": "02",
+			"name": "Pomme de Terre",
+			"cat": "Légume",
+			"ways": [
+				{
+					"type": "Nature",
+					"qty": 2,
+					"unit": "unité"
+				},
+				{
+					"type": "Rissolé",
+					"qty": 1,
+					"unit": "unité"
+				},
+				{
+					"type": "Purée",
+					"qty": 150,
+					"unit": "g"
+				},
+				{
+					"type": "Frites",
+					"qty": 150,
+					"unit": "g"
+				}
+			]
+		}
+	]
+}

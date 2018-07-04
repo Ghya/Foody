@@ -1,0 +1,165 @@
+{
+	"ingredients": {
+		"primary": [
+			{
+				"id": "01",
+				"name": "Boeuf",
+				"cat": "Viande",
+				"ways": [
+					{
+						"type": "Steack",
+						"qty": 200,
+						"unit": "g"
+					},
+					{
+						"type": "Rôtis",
+						"qty": 150,
+						"unit": "g"
+					},
+					{
+						"type": "Haché",
+						"qty": 250,
+						"unit": "g"
+					},
+					{
+						"type": "Carpaccio",
+						"qty": 200,
+						"unit": "g"
+					},
+					{
+						"type": "Rôtis",
+						"qty": 150,
+						"unit": "g"
+					},
+					{
+						"type": "Haché",
+						"qty": 250,
+						"unit": "g"
+					},
+					{
+						"type": "Carpaccio",
+						"qty": 200,
+						"unit": "g"
+					}
+				]
+			},
+			{
+				"id": "02",
+				"name": "Poulet",
+				"cat": "Viande",
+				"ways": [
+					{
+						"type": "Escalope",
+						"qty": 200,
+						"unit": "g"
+					},
+					{
+						"type": "Rôti",
+						"qty": 1,
+						"unit": "unité"
+					},
+					{
+						"type": "Emincé",
+						"qty": 200,
+						"unit": "g"
+					}
+				]
+			},
+			{
+				"id": "03",
+				"name": "Dinde",
+				"cat": "Viande",
+				"ways": [
+					{
+						"type": "Au four",
+						"qty": 200,
+						"unit": "g"
+					},
+					{
+						"type": "Escalope",
+						"qty": 200,
+						"unit": "g"
+					},
+					{
+						"type": "Emincé",
+						"qty": 200,
+						"unit": "g"
+					}
+				]
+			},
+			{
+				"id": "04",
+				"name": "Porc",
+				"cat": "Viande",
+				"ways": [
+					{
+						"type": "Côtelette",
+						"qty": 200,
+						"unit": "g"
+					},
+					{
+						"type": "Emincé",
+						"qty": 200,
+						"unit": "g"
+					},
+					{
+						"type": "Filet Mignon",
+						"qty": 200,
+						"unit": "g"
+					}
+				]
+			}
+		],
+		"secondary": [
+			{
+				"id": "01",
+				"name": "Salade",
+				"cat": "Légume",
+				"ways": [
+					{
+						"type": "Tomates",
+						"qty": 1,
+						"unit": "unité"
+					},
+					{
+						"type": "Verte",
+						"qty": 1,
+						"unit": "unité"
+					},
+					{
+						"type": "Concombre",
+						"qty": 1,
+						"unit": "unité"
+					}
+				]
+			},
+			{
+				"id": "02",
+				"name": "Pomme de Terre",
+				"cat": "Légume",
+				"ways": [
+					{
+						"type": "Nature",
+						"qty": 2,
+						"unit": "unité"
+					},
+					{
+						"type": "Rissolé",
+						"qty": 1,
+						"unit": "unité"
+					},
+					{
+						"type": "Purée",
+						"qty": 150,
+						"unit": "g"
+					},
+					{
+						"type": "Frites",
+						"qty": 150,
+						"unit": "g"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,90 @@
+{
+	"primary": [
+		{
+			"id": "01",
+			"name": "Boeuf",
+			"cat": "Viande",
+			"ways": [
+				{
+					"type": "Steack",
+					"qty": 200,
+					"unit": "g"
+				},
+				{
+					"type": "Rôtis",
+					"qty": 150,
+					"unit": "g"
+				},
+				{
+					"type": "Haché",
+					"qty": 250,
+					"unit": "g"
+				},
+				{
+					"type": "Carpaccio",
+					"qty": 200,
+					"unit": "g"
+				},
+				{
+					"type": "Rôtis",
+					"qty": 150,
+					"unit": "g"
+				},
+				{
+					"type": "Haché",
+					"qty": 250,
+					"unit": "g"
+				},
+				{
+					"type": "Carpaccio",
+					"qty": 200,
+					"unit": "g"
+				}
+			]
+		},
+		{
+			"id": "02",
+			"name": "Poulet",
+			"cat": "Viande",
+			"ways": [
+				{
+					"type": "Escalope",
+					"qty": 200,
+					"unit": "g"
+				},
+				{
+					"type": "Rôti",
+					"qty": 1,
+					"unit": "unité"
+				},
+				{
+					"type": "Emincé",
+					"qty": 200,
+					"unit": "g"
+				}
+			]
+		},
+		{
+			"id": "03",
+			"name": "Dinde",
+			"cat": "Viande",
+			"ways": [
+				{
+					"type": "Au four",
+					"qty": 200,
+					"unit": "g"
+				},
+				{
+					"type": "Escalope",
+					"qty": 200,
+					"unit": "g"
+				},
+				{
+					"type": "Emincé",
+					"qty": 200,
+					"unit": "g"
+				}
+			]
+		}
+	]
+}
