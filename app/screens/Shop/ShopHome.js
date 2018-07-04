@@ -47,6 +47,8 @@ class ShopHome extends React.Component {
 	/**
 	 * fn()
 	 * {@return} => component
+	 *
+	 * render flatist shoplist
 	 */
 	renderShopLists = () => {
 		if (this.props.shopList) {
